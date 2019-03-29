@@ -1,8 +1,8 @@
 
-# Seperating Content and Presentation
+# Separating Content and Presentation
 
 ## Introduction
-You now know what HTML is and how to create a properly-formatted HTML document. That said, if you look at the HTML pages thus far, you can't help but notice that they look a little plain. To make them more attractive (and responsive), you can use Cascanding Style Sheets or CSS!
+You now know what HTML is and how to create a properly-formatted HTML document. That said, if you look at the HTML pages thus far, you can't help but notice that they look a little plain. To make them more attractive (and responsive), you can use Cascading Style Sheets or CSS!
 
 ## Objectives
 You will be able to:
