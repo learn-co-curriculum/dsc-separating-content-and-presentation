@@ -11,11 +11,11 @@ You will be able to:
 
 ## Identify the Separation of Content and Presentation
 
-HTML lets you mark-up our content with semantic _structure_. It forms the skeleton of your web page. It would be great to be able to say, "Browser, when you see a `p` tag with `id` of `my-name`, make the first letter be huge!" Or, to get your readers' attention, you might say, "Browser, if you see _any_ tag with a `class` of `warning` surround it with a red box!" HTML authors believe that creating marked-up documents and styling marked-up documents are entirely separate tasks. They see a difference between writing _content_ (the data within the HTML document) and specifying _presentation_, the rules for displaying the rendered elements.  We use HTML for content and
+HTML lets you mark-up our content with semantic _structure_. It forms the skeleton of your web page. It would be great to be able to say, "Browser, when you see a `p` tag with `id` of `my-name`, make the first letter be huge!" Or, to get your readers' attention, you might say, "Browser, if you see _any_ tag with a `class` of `warning` surround it with a red box!" HTML authors believe that creating marked-up documents and styling marked-up documents are entirely separate tasks. They see a difference between writing _content_ (the data within the HTML document) and specifying _presentation_, the rules for displaying the rendered elements.
 
 ## Identify the Role of CSS
 
-CSS, or "Cascading Style Sheets," tell you how to write rules that define how
+CSS, or "Cascading Style Sheets," tells you how to write rules that define how
 browsers will present HTML. Rules in CSS won't look like HTML and they usually
 live in a file apart from our HTML file.
 
