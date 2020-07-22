@@ -5,8 +5,9 @@
 You now know what HTML is and how to create a properly-formatted HTML document. That said, if you look at the HTML pages thus far, you can't help but notice that they look a little plain. To make them more attractive (and responsive), you can use Cascading Style Sheets or CSS!
 
 ## Objectives
-You will be able to:
-* Identify the separation of content and presentation
+You will be able to:  
+
+* Identify the separation of content and presentation  
 * Explain the role of CSS
 
 ## Identify the Separation of Content and Presentation
