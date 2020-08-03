@@ -2,13 +2,15 @@
 # Separating Content and Presentation
 
 ## Introduction
-You now know what HTML is and how to create a properly-formatted HTML document. That said, if you look at the HTML pages thus far, you can't help but notice that they look a little plain. To make them more attractive (and responsive), you can use Cascading Style Sheets or CSS!
+
+You now know what HTML is and have explored a properly-formatted HTML document. That said, if you look at the HTML pages thus far, you can't help but notice that they look a little plain. To make them more attractive (and responsive), you can use Cascading Style Sheets or CSS!
 
 ## Objectives
+
 You will be able to:  
 
-* Identify the separation of content and presentation  
-* Explain the role of CSS
+- Identify the separation of content and presentation  
+- Explain the role of CSS
 
 ## Identify the Separation of Content and Presentation
 
@@ -16,20 +18,15 @@ HTML lets you mark-up your content with semantic _structure_. It forms the skele
 
 ## Explain the Role of CSS
 
-CSS, or "Cascading Style Sheets," tells you how to write rules that define how
-browsers will present HTML. Rules in CSS won't look like HTML and they usually
-live in a file apart from our HTML file.
+CSS, or "Cascading Style Sheets," tells you how to write rules that define how browsers will present HTML. Rules in CSS won't look like HTML and they usually live in a file apart from our HTML file.
 
-CSS handles all of the ways you want to customize your content's look and feel
-from margins and colors, to column-based layout!
+CSS handles all of the ways you want to customize your content's look and feel from margins and colors, to column-based layout!
 
 ## Additional Resources
 
-* [CSS Guidelines: The Separation of Concerns](https://cssguidelin.es/#the-separation-of-concerns)
-* [CSS Zen Garden](http://www.csszengarden.com/)
+- [CSS Guidelines: The Separation of Concerns](https://cssguidelin.es/#the-separation-of-concerns)
+- [CSS Zen Garden](http://www.csszengarden.com/)
 
 ## Summary
-Web developers separate the content of our HTML pages from their presentation, which they
-style with CSS. By keeping the two separate, you not only utilize the best tools
-for each job, but you can change code for one without disturbing the code for
-the other.
+
+Web developers separate the content of our HTML pages from their presentation, which they style with CSS. By keeping the two separate, you not only utilize the best tools for each job, but you can change code for one without disturbing the code for the other.
